@@ -1,0 +1,15 @@
+<html>
+
+<body>
+
+  <p class="tiy">
+    <a href="https://github.com/Lxueyan/odd-number-weeks-curriculum-schedule" target="_blank">odd number weeks curriculum schedule</a>
+  </p>
+
+  <p class="tiy">
+    <a href="https://github.com/Lxueyan/even-number-weeks-curriculum-schedule " target="_blank">even number weeks curriculum schedule</a>
+  </p>
+
+</body>
+
+</html>
